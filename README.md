@@ -1,14 +1,16 @@
 # Mastering LiveView Training
 
+The Mastering LiveView training is a 6 hour remote workshop that teachers participants everything they need to know to ship LiveView in production. This workshop provides the absolute novice with everything they need to develop LiveView professionally, and it will help the more experienced LiveView developer gain deeper insight into LiveView under the hood and LiveView best practices.
+
+Workshop participants will receive and retain full access to the lecture slide decks and project code with instructions and solutions.
+
 ## Course Description 
 
 LiveView empowers developers and teams to be highly productive by keeping your brain firmly focused on the server-side. Backed by OTP, it brings a fast and fault-tolerant UI to your web apps and enables you to build complex interactive and real-time features easily. In this training, you’ll master the tools you need to be a productive LiveView developer.
 
 Over the course of this six hour training, you’ll build out a real LiveView application and learn how LiveView works under the hood to support interactive UIs, how to build basic forms, how to make your forms more advanced with live uploads, how to secure your LiveViews with live sessions and LifeView lifecycle hooks, how to design layered UIs with components, how to test your LiveViews, how to support advanced client-side interactions with the JS commands API, and how to integrate PubSub into your live views for real-time functionality.
 
-You’ll get hands-on experience by pairing up with your classmates to iteratively build out a set of features into a real LiveView app, interspersed with brief lectures and code samples from your instructor. This workshop will provide the absolute novice with everything you need to develop LiveView professionally, and it will help the more experienced LiveView developer gain deeper insight into LiveView under the hood and LiveView best practices.
-
-Workshop participants will receive and retain full access to the lecture slide decks and project code with instructions and solutions.
+You’ll get hands-on experience by pairing up with your classmates to iteratively build out a set of features into a real LiveView app, interspersed with brief lectures and code samples from your instructor. 
 
 ## Workshop Structure
 
