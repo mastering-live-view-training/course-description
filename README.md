@@ -28,7 +28,7 @@ On the day of the workshop, I'll provision access to the lecture slide decks and
 
 ## Materials
 * [GitHub repo](https://github.com/mastering-live-view-training/live-library/tree/main) - You'll get access to this on the day of the training and your acecss will not expire.
-* [Lecture slide decks](https://drive.google.com/drive/folders/1wZAcP-6oq2bigqetZbcCZUC-eZ57AnY8?usp=sharing) - You'll get access to this on the day of the training and your acecss will not expire.
+* [Lecture slide decks](TBD) - You'll get access to this on the day of the training and your acecss will not expire.
 
 ## Completing The Coding Portions
 
